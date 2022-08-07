@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Manuel Solorzano 👨‍💻.
 
-I'm a Senior Backend Engineer @ [Science](https://science.clinic/) - Sequoia-Backend *Healthcare* AI startup.
+I'm a Senior Backend Engineer @ [Science](https://science.clinic/) - Sequoia-Backed *Healthcare* AI startup.
 
 - 🌱 I’m currently learning <ins>internals</ins> of **distributed systems**, some of my notes are [here](https://github.com/eevmanu/pkb/blob/master/system_design/distributed-systems.md).
 - 💬 Ask me about Python 🐍 and #remoteworking (been doing the latter for over 7 years).
