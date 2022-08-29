@@ -24,9 +24,11 @@ I strongly recommend to use this learning technique, read more about it [here](h
 
 **Stats**
 
-<!-- ![](https://komarev.com/ghpvc/?username=brendanfalk) -->
+<!-- ![eevmanu's profile views](https://komarev.com/ghpvc/?username=eevmanu) -->
 
 ![eevmanu's github stats](https://github-readme-stats.vercel.app/api?username=eevmanu&show_icons=true&hide=[%22issues%22])
+![eevmanu's github strike stats](https://github-readme-streak-stats.herokuapp.com?user=eevmanu&hide_border=true)
+
 
 <!--
 **eevmanu/eevmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +39,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!--
+ with ♥ by Manuel Solorzano
+
+ with ❤️ by Manuel Solorzano
 -->
