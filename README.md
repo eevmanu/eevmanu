@@ -75,7 +75,7 @@ I strongly recommend to use this learning technique, read more about it [here](h
   </a>
   <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg"
+      src="https://i.imgur.com/DMBnuJX.png"
       alt="cockroachdb" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
