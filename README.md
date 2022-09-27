@@ -25,7 +25,7 @@ Go <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/v
 
  <img src="https://i.imgur.com/8WkgVDX.png" alt="graphic to understand terminology of distributed systems" height="300" />
  
- (picture from ‣ [Evolving Terminology with Evolved Technology: Decentralized versus Distributed](https://medium.com/safenetwork/evolving-terminology-with-evolved-technology-decentralized-versus-distributed-7f8b4c9eacb))
+ 🖼️ 👆 [Evolving Terminology with Evolved Technology: Decentralized versus Distributed](https://medium.com/safenetwork/evolving-terminology-with-evolved-technology-decentralized-versus-distributed-7f8b4c9eacb)
 
 Check my [personal knowledge base 📖](https://github.com/eevmanu/pkb) if you're curious 👀 about how I practice **spaced repetition** over different topics.
 
