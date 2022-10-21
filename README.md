@@ -185,11 +185,11 @@ I strongly recommend to use this learning technique, read more about it [here](h
 
 <!-- ![eevmanu's profile views](https://komarev.com/ghpvc/?username=eevmanu) -->
 
-![eevmanu's github stats](https://github-readme-stats.vercel.app/api?username=eevmanu&show_icons=true&hide=[%22issues%22])
+<!-- ![eevmanu's github stats](https://github-readme-stats.vercel.app/api?username=eevmanu&show_icons=true&hide=[%22issues%22]) -->
+![eevmanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eevmanu&show_icons=true&theme=algolia)
 ![eevmanu's github strike stats](https://github-readme-streak-stats.herokuapp.com?user=eevmanu&hide_border=true)
-![eevmanu's github most used language](https://github-readme-stats.vercel.app/api/top-langs?username=eevmanu&show_icons=true&locale=en&layout=compact)
+![eevmanu's github most used language](https://github-readme-stats.vercel.app/api/top-langs?username=eevmanu&show_icons=true&locale=en&layout=compact&theme=algolia)
 <!-- ![eevmanu's github trophies](https://github-profile-trophy.vercel.app/?username=eevmanu) -->
-
 
 <!--
 **eevmanu/eevmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
