@@ -10,9 +10,12 @@ I'm a Senior Backend Engineer @ [Science](https://science.clinic/) - Sequoia-bac
 #### Connect with me
 
 <p align="left">
-<a href="https://twitter.com/eevmanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eevmanu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelsolorzano" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3889948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3889948" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/eevmanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eevmanu" height="30" width="40" /></a> -->
+ <a href="https://twitter.com/eevmanu" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="eevmanu" height="30" /></a>
+<!-- <a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelsolorzano" height="30" width="40" /></a> -->
+ <a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="manuelsolorzano" height="30" /></a>
+<a href="https://stackoverflow.com/users/3889948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3889948" height="30" /></a>
+<!-- thanks to https://cliply.co/  -->
 </p>
 
 #### Good at 👌
