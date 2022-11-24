@@ -6,7 +6,7 @@
 <!-- </p> -->
 
 <p align=center>
-  <font size="7"> I'm Manuel Solorzano 👨‍💻</font>
+  <font size="+7"> I'm Manuel Solorzano 👨‍💻</font>
 </p>
 
 - 🔭 I’m currently working as Senior Backend Engineer @ [Science 🤖📄](https://science.clinic/) using document understanding models on rasterized documents to streamlines daily doctor operations.
@@ -14,10 +14,13 @@
   - check some of [my notes 🗒️](https://github.com/eevmanu/pkb/blob/master/system_design/distributed-systems.md).
 - 💬 Ask me about Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="logo python" height="18"/> and [#remote]() (working remotely since **2015**).
 <!-- - 📫 You can reach me on <img src="https://api.iconify.design/ic/baseline-email.svg" alt="email" width="18" height="18"/> ‣ manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com -->
-- 📫 You can reach me on:
-  - <img src="https://api.iconify.design/ic/baseline-email.svg" alt="email" width="18" height="18"/> [manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com](mailto:manuel.solorzanoc@gmail.com)
-  - <a href="https://twitter.com/eevmanu" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="eevmanu" height="18" /></a> [@eevmanu](https://twitter.com/eevmanu)
-  - <a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="manuelsolorzano" height="18" /></a> [manuelsolorzano](https://linkedin.com/in/manuelsolorzano)
+- 👉 You can reach me on:
+  <!-- - <img src="https://api.iconify.design/ic/baseline-email.svg" alt="email" width="18" height="18"/> [manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com](mailto:manuel.solorzanoc@gmail.com) -->
+  <!-- https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif -->
+  <!-- https://cliply.co/wp-content/uploads/2020/04/422004530_MAIL_BOX_3D_ICON_400px.gif -->
+  - <a href="mailto:manuel.solorzanoc@gmail.com" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2020/04/422004530_MAIL_BOX_3D_ICON_400px.gif" alt="manuel.solorzanoc@gmail.com" height="25" /></a> [manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com](mailto:manuel.solorzanoc@gmail.com)
+  - <a href="https://twitter.com/eevmanu" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="eevmanu" height="25" /></a> [@eevmanu](https://twitter.com/eevmanu)
+  - <a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="manuelsolorzano" height="25" /></a> [manuelsolorzano](https://linkedin.com/in/manuelsolorzano)
 <!-- - 📫 You can reach me on 📧 ‣ manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com -->
 
 <!-- #### Connect with me 👍 -->
