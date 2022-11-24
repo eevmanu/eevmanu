@@ -6,7 +6,7 @@
 <!-- </p> -->
 
 <!-- <p align=center> -->
-  <font size="7"> I'm Manuel Solorzano 👨‍💻</font>
+<font size="+7"> I'm Manuel Solorzano 👨‍💻</font>
 <!-- </p> -->
 
 - 🔭 I’m currently working as Senior Backend Engineer @ [Science 🤖📄](https://science.clinic/) using document understanding models on rasterized documents to streamlines daily doctor operations.
