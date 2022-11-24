@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋, I'm Manuel Solorzano 👨‍💻 -->
-## Hi there 👋
+# <p align=center> Hi there 👋 </p>
 
 <!-- <p align=center> -->
   <!-- <font size="5"> Hi there 👋</font> -->
