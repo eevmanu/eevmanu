@@ -1,25 +1,35 @@
-## Hi there 👋, I'm Manuel Solorzano 👨‍💻.
+<!-- ## Hi there 👋, I'm Manuel Solorzano 👨‍💻 -->
+## Hi there 👋
 
-I'm a Senior Backend Engineer @ [Science](https://science.clinic/) - Sequoia-backed *Healthcare* AI startup building products (based on recent advances in document understanding) that automates and streamlines daily doctor operations.
+<!-- <p align=center> -->
+  <!-- <font size="5"> Hi there 👋</font> -->
+<!-- </p> -->
 
-<!-- TODO -->
-<!-- - 🔭 I’m currently working on ... -->
-- 🤓📖 I’m currently learning <ins>internals</ins> of **distributed systems**.
+<!-- <p align=center> -->
+  <font size="7"> I'm Manuel Solorzano 👨‍💻</font>
+<!-- </p> -->
+
+- 🔭 I’m currently working as Senior Backend Engineer @ [Science 🤖📄](https://science.clinic/) using document understanding models on rasterized documents to streamlines daily doctor operations.
+- 🤓📖 I’m currently learning <ins>internals</ins> of **distributed systems** <img src="https://i.imgur.com/xfKdkJ3.png" alt="distributed systems" height="18" />.
   - check some of [my notes 🗒️](https://github.com/eevmanu/pkb/blob/master/system_design/distributed-systems.md).
 - 💬 Ask me about Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="logo python" height="18"/> and [#remote]() (working remotely since **2015**).
-- 📫 You can reach me on <img src="https://api.iconify.design/ic/baseline-email.svg" alt="email" width="18" height="18"/> ‣ manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com
+<!-- - 📫 You can reach me on <img src="https://api.iconify.design/ic/baseline-email.svg" alt="email" width="18" height="18"/> ‣ manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com -->
+- 📫 You can reach me on:
+  - <img src="https://api.iconify.design/ic/baseline-email.svg" alt="email" width="18" height="18"/> [manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com](mailto:manuel.solorzanoc@gmail.com)
+  - <a href="https://twitter.com/eevmanu" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="eevmanu" height="18" /></a> [@eevmanu](https://twitter.com/eevmanu)
+  - <a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="manuelsolorzano" height="18" /></a> [manuelsolorzano](https://linkedin.com/in/manuelsolorzano)
 <!-- - 📫 You can reach me on 📧 ‣ manuel ᵈºᵗ solorzanoc ªᵗ gmail ᵈºᵗ com -->
 
-#### Connect with me 👍
+<!-- #### Connect with me 👍 -->
 
-<p align="left">
+<!-- <p align="left"> -->
 <!-- <a href="https://twitter.com/eevmanu"              target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"       alt="eevmanu"         height="30" width="40" /></a> -->
 <!-- <a href="https://linkedin.com/in/manuelsolorzano"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelsolorzano" height="30" width="40" /></a> -->
-  <a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif"                                         alt="manuelsolorzano" height="30" /></a>
-  <a href="https://twitter.com/eevmanu"             target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"                                          alt="eevmanu"         height="30" /></a>
-  <a href="https://stackoverflow.com/users/3889948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="3889948"         height="30" /></a>
+  <!-- <a href="https://linkedin.com/in/manuelsolorzano" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif"                                         alt="manuelsolorzano" height="30" /></a> -->
+  <!-- <a href="https://twitter.com/eevmanu"             target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"                                          alt="eevmanu"         height="30" /></a> -->
+  <!-- <a href="https://stackoverflow.com/users/3889948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="3889948"         height="30" /></a> -->
 <!-- thanks to https://cliply.co/  -->
-</p>
+<!-- </p> -->
 
 #### Core skills 💪
 
@@ -41,7 +51,6 @@ https://i.imgur.com/aoCu8jW.png no bg
   <img src="https://i.imgur.com/xvqc5ON.png" alt="graphic to understand terminology of distributed systems" height="450" />
 </p>
 
-
 <!--
 thanks 👏 to http://www.rand.org/content/dam/rand/pubs/research_memoranda/2006/RM3420.pdf
 https://i.imgur.com/xvqc5ON.png
@@ -50,7 +59,7 @@ thanks 👏 to https://medium.com/safenetwork/evolving-terminology-with-evolved-
 https://i.imgur.com/8WkgVDX.png bg
 https://i.imgur.com/l5gMBN3.png no bg -->
 
-#### Personal initiative
+#### Personal initiative ✨
 
 Last couple of years, I've been working on a [personal knowledge base 📖🔎](https://github.com/eevmanu/pkb).
 
@@ -286,8 +295,8 @@ To read more about this, check this [tweet <img src="https://cdn.jsdelivr.net/gh
 ![eevmanu github most used language](https://github-readme-stats.vercel.app/api/top-langs?username=eevmanu&show_icons=true&locale=en&layout=compact&theme=algolia)
 <!-- TODO https://github.com/jstrieb/github-stats -->
 ![eevmanu github strike stats](https://streak-stats.demolab.com/?user=eevmanu&theme=algolia)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eevmanu&repo=pkb)](https://github.com/eevmanu/pkb) -->
 <!-- ![eevmanu github trophies](https://github-profile-trophy.vercel.app/?username=eevmanu) -->
-
 
 <!--
 **eevmanu/eevmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -299,7 +308,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <p align=center>
   <!-- <a>  with ♥ by Manuel Solorzano</a> -->
