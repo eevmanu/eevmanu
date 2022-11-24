@@ -5,9 +5,9 @@
   <!-- <font size="5"> Hi there 👋</font> -->
 <!-- </p> -->
 
-<!-- <p align=center> -->
-<font size="+7"> I'm Manuel Solorzano 👨‍💻</font>
-<!-- </p> -->
+<p align=center>
+  <font size="7"> I'm Manuel Solorzano 👨‍💻</font>
+</p>
 
 - 🔭 I’m currently working as Senior Backend Engineer @ [Science 🤖📄](https://science.clinic/) using document understanding models on rasterized documents to streamlines daily doctor operations.
 - 🤓📖 I’m currently learning <ins>internals</ins> of **distributed systems** <img src="https://i.imgur.com/xfKdkJ3.png" alt="distributed systems" height="18" />.
