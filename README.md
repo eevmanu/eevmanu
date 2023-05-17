@@ -322,3 +322,7 @@ Here are some ideas to get you started:
     <a><img src="https://api.iconify.design/material-symbols/code.svg" alt="code" width="15" height="15"/> with 💙 by Manuel Solorzano</a>
   </small>
 </p>
+
+
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=eevmanu/pkb&type=Date)](https://star-history.com/#eevmanu/pkb&Date) -->
+<!-- [![Sparkline](https://stars.medv.io/eevmanu/pkb.svg)](https://stars.medv.io/eevmanu/pkb) -->
