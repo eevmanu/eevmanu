@@ -1,6 +1,9 @@
 <!-- ## Hi there 👋, I'm Manuel Solorzano 👨‍💻 -->
 # <p align=center> Hi there 👋 </p>
 
+<!-- TODO 2022-12-20 search another interesting gif waving hand use google search custom hack for that tbs=itp:animated -->
+<!-- <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> -->
+
 <!-- <p align=center> -->
   <!-- <font size="5"> Hi there 👋</font> -->
 <!-- </p> -->
@@ -9,7 +12,7 @@
   <!-- <font size="+7"> I'm Manuel Solorzano 👨‍💻</font> -->
 <!-- </p> -->
 
-# <p align=center> I'm Manuel Solorzano 👨‍💻 </p>
+# <p align=center> I'm [Manuel](https://github.com/eevmanu) 👨‍💻 </p>
 
 - 🔭 I’m currently working as Senior Backend Engineer @ [Science 🤖📄](https://science.clinic/) using document understanding models on rasterized documents to streamlines daily doctor operations.
 - 🤓📖 I’m currently learning <ins>internals</ins> of **distributed systems** <img src="https://i.imgur.com/xfKdkJ3.png" alt="distributed systems" height="18" />.
@@ -292,7 +295,15 @@ To read more about this, check this [tweet <img src="https://cdn.jsdelivr.net/gh
   <!-- TODO add railway -->
 </p>
 
-#### Stats
+#### profile statistics
+
+☝ [Table of contents](#table-of-contents)
+
+<!--
+different solutions to create widgets with statistics about your profile
+could you use in your personal webpage
+or in your github profile read
+-->
 
 <!-- ![eevmanu profile views](https://komarev.com/ghpvc/?username=eevmanu) -->
 <!-- ![eevmanu github stats](https://github-readme-stats.vercel.app/api?username=eevmanu&show_icons=true&hide=[%22issues%22]) -->
@@ -322,3 +333,6 @@ Here are some ideas to get you started:
     <a><img src="https://api.iconify.design/material-symbols/code.svg" alt="code" width="15" height="15"/> with 💙 by Manuel Solorzano</a>
   </small>
 </p>
+
+<!-- TODO 2022-12-20 extract some ideas from this repo 👇 -->
+<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
