@@ -336,3 +336,6 @@ Here are some ideas to get you started:
 
 <!-- TODO 2022-12-20 extract some ideas from this repo 👇 -->
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
+
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=eevmanu/pkb&type=Date)](https://star-history.com/#eevmanu/pkb&Date) -->
+<!-- [![Sparkline](https://stars.medv.io/eevmanu/pkb.svg)](https://stars.medv.io/eevmanu/pkb) -->
